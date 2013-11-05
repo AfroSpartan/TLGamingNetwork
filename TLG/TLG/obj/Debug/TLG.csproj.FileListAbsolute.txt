@@ -1,0 +1,18 @@
+C:\Users\AfroSpartan\Documents\Visual Studio 2012\Projects\TLG\TLG\TLG\bin\Debug\TLG.exe.config
+C:\Users\AfroSpartan\Documents\Visual Studio 2012\Projects\TLG\TLG\TLG\bin\Debug\TLG.exe
+C:\Users\AfroSpartan\Documents\Visual Studio 2012\Projects\TLG\TLG\TLG\bin\Debug\TLG.pdb
+C:\Users\AfroSpartan\Documents\Visual Studio 2012\Projects\TLG\TLG\TLG\obj\Debug\TLG.csprojResolveAssemblyReference.cache
+C:\Users\AfroSpartan\Documents\Visual Studio 2012\Projects\TLG\TLG\TLG\obj\Debug\TLG.Form1.resources
+C:\Users\AfroSpartan\Documents\Visual Studio 2012\Projects\TLG\TLG\TLG\obj\Debug\TLG.Properties.Resources.resources
+C:\Users\AfroSpartan\Documents\Visual Studio 2012\Projects\TLG\TLG\TLG\obj\Debug\TLG.csproj.GenerateResource.Cache
+C:\Users\AfroSpartan\Documents\Visual Studio 2012\Projects\TLG\TLG\TLG\obj\Debug\TLG.exe
+C:\Users\AfroSpartan\Documents\Visual Studio 2012\Projects\TLG\TLG\TLG\obj\Debug\TLG.pdb
+C:\Users\AfroSpartan\Documents\GitHub\TLGamingNetwork\TLG\TLG\bin\Debug\TLG.exe.config
+C:\Users\AfroSpartan\Documents\GitHub\TLGamingNetwork\TLG\TLG\obj\Debug\TLG.exe
+C:\Users\AfroSpartan\Documents\GitHub\TLGamingNetwork\TLG\TLG\obj\Debug\TLG.pdb
+C:\Users\AfroSpartan\Documents\GitHub\TLGamingNetwork\TLG\TLG\bin\Debug\TLG.exe
+C:\Users\AfroSpartan\Documents\GitHub\TLGamingNetwork\TLG\TLG\bin\Debug\TLG.pdb
+C:\Users\AfroSpartan\Documents\GitHub\TLGamingNetwork\TLG\TLG\obj\Debug\TLG.csprojResolveAssemblyReference.cache
+C:\Users\AfroSpartan\Documents\GitHub\TLGamingNetwork\TLG\TLG\obj\Debug\TLG.Form1.resources
+C:\Users\AfroSpartan\Documents\GitHub\TLGamingNetwork\TLG\TLG\obj\Debug\TLG.Properties.Resources.resources
+C:\Users\AfroSpartan\Documents\GitHub\TLGamingNetwork\TLG\TLG\obj\Debug\TLG.csproj.GenerateResource.Cache
